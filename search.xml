@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+    
+    <entry>
+      <title><![CDATA[中文测试]]></title>
+      <url>http://yoursite.com/2017/04/03/zh-test/</url>
+      <content type="html"><![CDATA[<p>change this md file encoding to utf-8</p>
+<p>中文测试</p>
+]]></content>
+      
+        <categories>
+            
+            <category> test </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> testing </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[first test]]></title>
+      <url>http://yoursite.com/2017/04/03/test/</url>
+      <content type="html"><![CDATA[<p>This is my first test.<br>  testing</p>
+]]></content>
+      
+        <categories>
+            
+            <category> test </category>
+            
+        </categories>
+        
+        
+        <tags>
+            
+            <tag> testing </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
+</search>
